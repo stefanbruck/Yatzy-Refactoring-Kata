@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzy", "Yahtzy\Yahtzy.csproj", "{FFC503FC-67F4-4F92-89C3-9027BB571656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahtzyTest", "YahtzyTest\YahtzyTest.csproj", "{EA2F63FB-DEE6-465A-B416-C9DEC333B9A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC503FC-67F4-4F92-89C3-9027BB571656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC503FC-67F4-4F92-89C3-9027BB571656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC503FC-67F4-4F92-89C3-9027BB571656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC503FC-67F4-4F92-89C3-9027BB571656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2F63FB-DEE6-465A-B416-C9DEC333B9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2F63FB-DEE6-465A-B416-C9DEC333B9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2F63FB-DEE6-465A-B416-C9DEC333B9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2F63FB-DEE6-465A-B416-C9DEC333B9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
